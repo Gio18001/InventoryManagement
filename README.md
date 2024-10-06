@@ -8,7 +8,7 @@ This program will keep track of different items, including their price and how m
 remove features on an existing item, it changes only the quantity, except in the case you remove the entire quantity of an item,
 at which point it will be removed from the inventory entirely.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/HKy7Og3H0iA)
 
 # Development Environment
 
